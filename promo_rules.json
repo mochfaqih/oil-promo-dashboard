@@ -1,0 +1,72 @@
+{
+  "Gedang Motor": {
+    "Kaos": {
+      "unit": "dus",
+      "qty": 3
+    },
+    "Keychain": {
+      "unit": "botol",
+      "qty": 2
+    },
+    "Kanebo": {
+      "unit": "botol",
+      "qty": 2
+    }
+  },
+  "Restu Motor": {
+    "Kaos": {
+      "unit": "dus",
+      "qty": 4
+    },
+    "Keychain": {
+      "unit": "botol",
+      "qty": 2
+    },
+    "Kanebo": {
+      "unit": "botol",
+      "qty": 2
+    }
+  },
+  "Mandiri Motor": {
+    "Kaos": {
+      "unit": "dus",
+      "qty": 2
+    },
+    "Sarung": {
+      "unit": "dus",
+      "qty": 2
+    },
+    "Keychain": {
+      "unit": "botol",
+      "qty": 1
+    },
+    "Kanebo": {
+      "unit": "botol",
+      "qty": 3
+    }
+  },
+  "Jitu Motor": {
+    "Kaos": {
+      "unit": "dus",
+      "qty": 2
+    },
+    "Keychain": {
+      "unit": "botol",
+      "qty": 1
+    },
+    "Kanebo": {
+      "unit": "botol",
+      "qty": 2
+    }
+  },
+  "Hasil Abadi 3 Motor": {
+    "Keychain": {
+      "unit": "botol",
+      "qty": 1
+    },
+    "Kanebo": {
+      "unit": "botol",
+      "qty": 2
+    }
+  }
+}
