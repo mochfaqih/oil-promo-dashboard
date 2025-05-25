@@ -1,0 +1,20 @@
+
+<style>
+.ag-theme-streamlit .ag-header-cell-label {
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.ag-theme-streamlit .ag-cell {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+.ag-theme-streamlit {
+    --ag-background-color: #0f172a;
+    --ag-header-background-color: #3b82f6;
+    --ag-foreground-color: white;
+}
+</style>
